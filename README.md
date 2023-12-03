@@ -9,7 +9,7 @@
 
 - I am 19 years old.
 - I like the Backend and the Frontend equally.
-- I studied Systems Engineering at the university.
+- I am studying systems engineering at university.
 - I've been programming since I was 17 or so.
   
 <h3 align="center">📈Statistics:📉</h3>
