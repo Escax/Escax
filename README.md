@@ -3,7 +3,7 @@
 
 
 <p aling="left"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=escax&theme=shadow_blue&show_icons=true&hide_border=true"></p>
-<p aling="center"><img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak)"></p>
+<p aling="center"><img  src ="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak)"></p>
 
 
 
