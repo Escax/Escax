@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escax&label=Profile%20views&color=430fff&style=plastic" alt="escax" /> </p>
 
 ![Escax GitHub stats](https://github-readme-stats.vercel.app/api?username=escax&theme=shadow_blue&show_icons=true) 
-<img aling="rigth" height="50%" width="auto"  src="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=497" alt="GitHub Streak" />
+<img aling="rigth" src="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak" />
 
 
 
