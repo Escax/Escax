@@ -35,6 +35,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="40"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="40"/></a> 
 
+<h3 align="left">Most used? 🤔</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=escax&show_icons=true&theme=onedark&title_color=006eff&text_color=ffffff&locale=en&layout=compact" alt="escax" />
 
 <h3 align="left">🌐Connect with me:</h3>
