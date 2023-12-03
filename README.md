@@ -1,5 +1,5 @@
 
-I like programming, I have learned self-taught and at university, and here we are.
+**I like programming, I have learned self-taught and at university, and here we are.**
 
 **About me**
 
