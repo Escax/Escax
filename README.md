@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escax&label=Profile%20views&color=430fff&style=plastic" alt="escax" /> </p>
 
 
-<p aling="left"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=escax&theme=shadow_blue&show_icons=true&hide_border=true&card_width=400"></p>
+<p aling="left"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=escax&theme=shadow_blue&show_icons=true&hide_border=true&card_width=300"></p>
 <p aling="center"><img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak)"></p>
 
 
