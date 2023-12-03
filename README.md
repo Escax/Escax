@@ -11,6 +11,7 @@
 - I like the Backend and the Frontend equally.
 - I am studying systems engineering at university.
 - I've been programming since I was 17 or so.
+- 📫Contact me: cardozoesneider139@gmail.com
   
 <h3 align="center">📈Statistics:📉</h3>
 
