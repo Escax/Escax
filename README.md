@@ -16,6 +16,8 @@
 
 <p aling="left"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=escax&theme=shadow_blue&show_icons=true&hide_border=true&card_width=300"><img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=Escax&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak)"></p>
 
+<h3 align="center">Projects:</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escax&repo=Crud2_ApiRest_Spring-Boot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
