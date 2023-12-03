@@ -33,7 +33,7 @@
 <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="40"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="90" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="90" height="40"/></a> 
+<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="40"/></a> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=escax&show_icons=true&theme=onedark&title_color=006eff&text_color=ffffff&locale=en&layout=compact" alt="escax" />
 
