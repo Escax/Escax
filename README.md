@@ -36,7 +36,7 @@
 <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="40"/></a> 
 
 <h2 align="center">Most used? 🤔</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=escax&show_icons=true&theme=onedark&title_color=006eff&text_color=ffffff&locale=en&layout=compact" alt="escax" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=escax&show_icons=true&theme=onedark&title_color=006eff&text_color=ffffff&locale=en&layout=compact" alt="escax" />
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
