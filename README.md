@@ -10,7 +10,7 @@
 <p aling="center"> 
 <h3 align="left">🧑🏽‍💻Languages and Tools:</h3>
 <h2 align="left">🧠Skills:</h2>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="margin: 10px 10px 10px 0px" alt="csharp" width="40" height="40"/><a/>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="40"/><a/>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a/>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><a/>
 <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><a/>
