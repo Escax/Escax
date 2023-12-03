@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://github.com/Escax/Crud2_ApiRest_Spring-Boot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=github_dark&border_color=3E61C1" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Car-Shop&show_owner=true&theme=github_dark&border_color=3E61C1" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Escax/Escax"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Escax&show_owner=true&theme=github_dark&border_color=3E61C1" alt="readme-typing-svg"></a>
   <a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud-Spring-Boot-and-Hibernate&show_owner=true&theme=github_dark&border_color=3E61C1" alt="readme-typing-svg"></a>
 
 <p/>
