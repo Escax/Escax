@@ -1,4 +1,9 @@
 
+I like programming, I have learned self-taught and at university, and here we are.
+
+**About me**
+
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escax&label=Profile%20views&color=430fff&style=plastic" alt="escax" /> </p>
 
 
