@@ -18,7 +18,7 @@
 
 <h3 align="center">🔧Some projects:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=github_dark&border_color=3E61C1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">🧑🏽‍💻Languages and Tools:</h3>
