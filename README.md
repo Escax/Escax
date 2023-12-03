@@ -8,6 +8,7 @@
 - I am 19 years old.
 - I like the Backend and the Frontend equally.
 - I studied Systems Engineering at the university.
+- I've been programming since I was 17 or so.
   
 
 
