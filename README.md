@@ -43,7 +43,3 @@
 <h2 align="center">Most used? 🤔</h2>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=escax&show_icons=true&theme=onedark&title_color=006eff&text_color=ffffff&locale=en&layout=compact" alt="escax" />
 
-<h3 align="left">🌐Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/esneider-cardozo-683396238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhojan esneider monroy cardozo" height="30" width="40" /></a>
-</p>
