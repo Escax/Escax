@@ -3,7 +3,10 @@
 
 **About me**
 
-- 
+- I am 19 years old.
+- I like the Backend and the Frontend equally.
+- I studied Systems Engineering at the university.
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escax&label=Profile%20views&color=430fff&style=plastic" alt="escax" /> </p>
 
 
