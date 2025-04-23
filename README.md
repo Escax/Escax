@@ -9,7 +9,7 @@
 
 - I am 21 years old.
 - I like the Backend and the Frontend equally.
-- I am studying systems engineering at university.
+- I am studying software engineering at university.
 - I've been programming since I was 17 or so.
 - 📫Contact me: cardozoesneider139@gmail.com
   
