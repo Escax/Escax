@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=180&section=header&text=ESNEIDER%20CARDOZO&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Frontend%20%C2%B7%20Cybersecurity&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=180&section=header&text=ESNEIDER%20CARDOZO&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Frontend&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=escax&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=430fff" alt="escax" />
 
@@ -25,7 +25,6 @@ enfoque: Backend & Frontend por igual
 ```
 
 - 🔭 Trabajando actualmente con **ADF y Java**
-- 🌱 Explorando **ciberseguridad** desde cero, con Kali Linux
 - 💡 Construyendo proyectos propios con **Spring Boot** y **React**
 - 📫 Contáctame: **cardozoesneider139@gmail.com**
 
@@ -58,7 +57,6 @@ enfoque: Backend & Frontend por igual
   <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=430fff" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=430fff" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=430fff" />
 </p>
 
 <br>
