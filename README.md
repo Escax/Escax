@@ -61,30 +61,21 @@ enfoque: Backend & Frontend por igual
 
 <br>
 
-<h3>▍ Estadísticas</h3>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=escax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&icon_color=430fff&text_color=8b949e"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=escax&theme=dark&hide_border=true&background=0d1117&ring=430fff&fire=430fff&currStreakLabel=430fff"/>
-</p>
-
-<br>
-
 <h3>▍ Proyectos</h3>
 
 <p align="center">
   <a href="https://github.com/Escax/Crud2_ApiRest_Spring-Boot">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
+    <img src="https://img.shields.io/badge/Crud2__ApiRest__Spring--Boot-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Escax/crudjb">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=CrudJb&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
+    <img src="https://img.shields.io/badge/CrudJb-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud-Spring-Boot-and-Hibernate&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
+    <img src="https://img.shields.io/badge/Crud--Spring--Boot--and--Hibernate-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
   </a>
 </p>
 
