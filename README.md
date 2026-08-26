@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:430fff,100:8f00ff&height=200&section=header&text=Hola,%20soy%20Esneider%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Frontend%20%7C%20Cybersecurity&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=180&section=header&text=ESNEIDER%20CARDOZO&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Frontend%20%C2%B7%20Cybersecurity&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=escax&label=Profile%20views&color=430fff&style=for-the-badge" alt="escax" />
+<img src="https://komarev.com/ghpvc/?username=escax&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=430fff" alt="escax" />
+
+<br><br>
 
 </div>
 
@@ -36,68 +38,58 @@ enfoque: Backend & Frontend por igual
 </tr>
 </table>
 
-<br>
-
-<h3 align="center">📊 Estadísticas</h3>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=escax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8f00ff&icon_color=430fff&text_color=c9d1d9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8f00ff&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=escax&theme=tokyonight&hide_border=true&background=0d1117&ring=8f00ff&fire=430fff&currStreakLabel=8f00ff" alt="GitHub Streak"/>
-</p>
 
 <br>
 
-<h3 align="center">🚀 Proyectos destacados</h3>
+<h3>▍ Stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=430fff" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=430fff" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=430fff" />
+</p>
+
+<br>
+
+<h3>▍ Estadísticas</h3>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=escax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&icon_color=430fff&text_color=8b949e"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=escax&theme=dark&hide_border=true&background=0d1117&ring=430fff&fire=430fff&currStreakLabel=430fff"/>
+</p>
+
+<br>
+
+<h3>▍ Proyectos</h3>
 
 <p align="center">
   <a href="https://github.com/Escax/Crud2_ApiRest_Spring-Boot">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8f00ff&text_color=c9d1d9"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
   </a>
   <a href="https://github.com/Escax/crudjb">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=CrudJb&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8f00ff&text_color=c9d1d9"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=CrudJb&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
   </a>
   <a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud-Spring-Boot-and-Hibernate&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8f00ff&text_color=c9d1d9"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud-Spring-Boot-and-Hibernate&show_owner=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=430fff&text_color=8b949e"/>
   </a>
 </p>
 
 <br>
 
-<h3 align="center">🧠 Lenguajes y herramientas</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,html,css,mysql,postgres,mssql,docker,git,postman,linux,kali&theme=dark" />
-</p>
-
-<div align="center">
-
-**Backend**  
-![Java](https://img.shields.io/badge/Java-430fff?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-430fff?style=for-the-badge&logo=springboot&logoColor=white)
-
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-430fff?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-430fff?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-430fff?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-430fff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-430fff?style=for-the-badge&logo=css3&logoColor=white)
-
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/MySQL-430fff?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-430fff?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-430fff?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Herramientas**  
-![Docker](https://img.shields.io/badge/Docker-430fff?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-430fff?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-430fff?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:430fff,100:8f00ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=100&section=footer" width="100%"/>
