@@ -69,7 +69,7 @@ enfoque: Backend & Frontend por igual
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=escax&theme=dark&hide_border=true&background=0d1117&ring=430fff&fire=430fff&currStreakLabel=430fff"/>
+  <img src="https://streak-stats.demolab.com?user=escax&theme=dark&hide_border=true&background=0d1117&ring=430fff&fire=430fff&currStreakLabel=430fff"/>
 </p>
 
 <br>
