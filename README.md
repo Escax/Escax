@@ -15,12 +15,11 @@
 ### 👨‍💻 Sobre mí
 
 ```yaml
-edad: 21
+edad: 22
 ubicacion: Colombia
-educacion: Ingeniería de Software (6to semestre)
-programando_desde: ~2019 (17 años)
+educacion: Ingeniería de Software 
+programando_desde: ~2019 
 enfoque: Backend & Frontend por igual
-aprendiendo: Ciberseguridad (ataque y defensa) + Bug Bounty
 ```
 
 - 🔭 Trabajando actualmente con **ADF y Java**
