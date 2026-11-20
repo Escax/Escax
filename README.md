@@ -1,84 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=180&section=header&text=ESNEIDER%20CARDOZO&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Frontend&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:430fff,100:00e5ff&height=200&section=header&text=ESNEIDER%20CARDOZO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Frontend&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=escax&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=430fff" alt="escax" />
+<a href="https://github.com/Escax">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+Inicializando+perfil...;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React;Construyendo+sistemas+empresariales+con+Oracle+ADF;Siempre+aprendiendo+algo+nuevo+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-<br><br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=escax&label=PROFILE+VIEWS&color=430fff&style=flat-square&labelColor=0d1117" />
+<a href="mailto:cardozoesneider139@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00e5ff" />
+</a>
 
 </div>
 
 <br>
 
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
+## `> whoami`
 
-### 👨‍💻 Sobre mí
+```java
+public class Esneider {
+    String  ubicacion   = "Colombia 🇨🇴";
+    int     edad        = 22;
+    String  educacion   = "Ingeniería de Software";
+    int     codeaDesde  = 2019;
+    String  enfoque     = "Backend & Frontend por igual";
 
-```yaml
-edad: 22
-ubicacion: Colombia
-educacion: Ingeniería de Software 
-programando_desde: ~2019 
-enfoque: Backend & Frontend por igual
+    String[] ahoraMismo = {
+        "Desarrollando módulos empresariales con Oracle ADF + Java",
+        "Construyendo proyectos propios con Spring Boot y React"
+    };
+}
 ```
 
-- 🔭 Trabajando actualmente con **ADF y Java**
-- 💡 Construyendo proyectos propios con **Spring Boot** y **React**
-- 📫 Contáctame: **cardozoesneider139@gmail.com**
+<br>
 
-</td>
-<td width="40%" valign="center" align="center">
+## `> stack --list`
 
-<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="100%" style="border-radius: 12px;"/>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,html,css&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Oracle_ADF-0d1117?style=flat-square&logo=oracle&logoColor=00e5ff" />
+<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=00e5ff" />
 
+</div>
 
 <br>
 
-<h3>▍ Stack</h3>
+## `> ls ./proyectos`
 
-<p>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=430fff" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=430fff" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=430fff" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Escax/Crud2_ApiRest_Spring-Boot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud2_ApiRest_Spring-Boot&bg_color=0d1117&title_color=8b6bff&icon_color=00e5ff&text_color=c9d1d9&border_color=430fff" />
+</a>
+<a href="https://github.com/Escax/crudjb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=crudjb&bg_color=0d1117&title_color=8b6bff&icon_color=00e5ff&text_color=c9d1d9&border_color=430fff" />
+</a>
+<a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Escax&repo=Crud-Spring-Boot-and-Hibernate&bg_color=0d1117&title_color=8b6bff&icon_color=00e5ff&text_color=c9d1d9&border_color=430fff" />
+</a>
+
+</div>
 
 <br>
 
-<h3>▍ Proyectos</h3>
+## `> git stats`
 
-<p align="center">
-  <a href="https://github.com/Escax/Crud2_ApiRest_Spring-Boot">
-    <img src="https://img.shields.io/badge/Crud2__ApiRest__Spring--Boot-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Escax/crudjb">
-    <img src="https://img.shields.io/badge/CrudJb-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Escax/Crud-Spring-Boot-and-Hibernate">
-    <img src="https://img.shields.io/badge/Crud--Spring--Boot--and--Hibernate-0d1117?style=for-the-badge&logo=github&logoColor=430fff" />
-  </a>
-</p>
+<div align="center">
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Escax&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=8b6bff&icon_color=00e5ff&text_color=c9d1d9&border_color=430fff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escax&layout=compact&bg_color=0d1117&title_color=8b6bff&text_color=c9d1d9&border_color=430fff" />
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:430fff,100:0d1117&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Escax&bg_color=0d1117&color=c9d1d9&line=430fff&point=00e5ff&area=true&area_color=430fff&hide_border=true" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:430fff,100:0d1117&height=120&section=footer" width="100%"/>
